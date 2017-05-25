@@ -1,6 +1,8 @@
 This is the open source code to my master's thesis "Airbow - An Anthropomimetic Elbow with Dual Pneumatic Actuators".
 If you want to make your own Airbow, there is a list of materials below and I recommend that you check out the pictures and videos on my instagram account here: https://www.instagram.com/theairbowproject/
 
+If you plan on making your own Airbow or something similar, don't hesitate to contact me and I'll be happy to help you.
+
 Tools etc.
 * 3D printer
 * Soldering station
